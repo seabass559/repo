@@ -1,10 +1,10 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.sebastianm.spotifyhidelikedsongs</id>
 	<name>Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>13.2.3</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
