@@ -12,6 +12,8 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
+
+
 Package: com.sebastianm.spotifyhidelikedsongs
 Name: spotifyhidelikedsongs
 Author: SebastianM
@@ -20,6 +22,7 @@ Depends: mobilesubstrate
 Maintainer: sebx559@gmail.com
 Architecture: iphoneos-arm
 Filename: ./debs/com.sebastianm.spotifyhidelikedsongs.deb
+Md5sum:
 Size: 1000
 Section: Tweaks
 Version: 1
