@@ -1,7 +1,7 @@
 <package>
 	<id>com.sebastianm.spotifyhidelikedsongs</id>
-	<name>Spotify Package</name>
-	<version>1.0.0-1</version>
+	<name>Spotify Hide Liked Sonts</name>
+	<version>1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.2.3</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This is a package. Requires iOS 13 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
