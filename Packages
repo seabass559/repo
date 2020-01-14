@@ -19,9 +19,10 @@ Description: Removes the Liked Songs playlist from Spotify’s Library view.
 Depends: mobilesubstrate
 Maintainer: sebx559@gmail.com
 Architecture: iphoneos-arm
-Filename: ./debs/com.sebastianm.spotifyhidelikedsongs
+Filename: ./debs/com.sebastianm.spotifyhidelikedsongs.deb
+Size: 1000
 Section: Tweaks
 Version: 1
-Author: Reposi3 <reposithree@gmail.com>
+Author: Sebastian M <sebx559@gmail.com>
 Depiction: https://seabass559.github.io/depictions/com.sebastianm.spotifyhidelikedsongs
 
