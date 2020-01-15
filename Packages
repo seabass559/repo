@@ -7,7 +7,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.sebastianm.spotifyhideliked.deb
 Size: 5064
-MD5sum: A6A359CAFFEC707BD98B1B67CEA0EEC2
+MD5sum: a6a359caffec707bd98b1b67cea0eec2
 Description: This package hides the Liked Songs Playlist in your Spotify Library.
 Name: SpotifyHideLiked
 Author: Seabass559 <sebx559@gmail.com>
