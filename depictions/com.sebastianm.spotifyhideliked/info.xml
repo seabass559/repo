@@ -4,7 +4,7 @@
 	<version>1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.2.3</miniOS>
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
