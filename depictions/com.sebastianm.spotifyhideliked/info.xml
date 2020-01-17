@@ -1,7 +1,7 @@
 <package>
 	<id>com.sebastianm.spotifyhideliked</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -23,11 +23,11 @@
 	<screenshots>
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>photo.jpeg</image>
 		</screenshot>		
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>photo-2.jpeg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
