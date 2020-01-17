@@ -45,7 +45,7 @@ This tweak hides the Liked Songs Playlist from your Spotify Library. I made this
 	<link>
 	<name>Buy me a cup of coffee!</name>
 			<url>https://www.paypal.me/seabass559</url>
-		   <iconclass>paypal</iconclass>
+		   <iconclass>fa fa-paypal</iconclass>
 		</link>
 		<link>
 			<name>/r/jailbreak</name>
