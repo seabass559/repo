@@ -16,7 +16,18 @@
 This tweak hides the Liked Songs Playlist from your Spotify Library. I made this because I personally don't like it and hate that its always at the top.
 
 </description>
-<links>
+
+		<!--
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+		-->
+		
+	</descriptionlist>
+	<links>
 	<link>
 	<name>Buy me a cup of coffee!</name>
 			<url>https://www.paypal.me/seabass559</url>
@@ -28,16 +39,6 @@ This tweak hides the Liked Songs Playlist from your Spotify Library. I made this
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
-		<!--
-		<description></description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
-		-->
-		
-	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>Without the tweak installed</description>
