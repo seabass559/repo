@@ -16,7 +16,18 @@
 This tweak hides the Liked Songs Playlist from your Spotify Library. I made this because I personally don't like it and hate that its always at the top.
 
 </description>
-
+<links>
+	<link>
+	<name>Buy me a cup of coffee!</name>
+			<url>https://www.paypal.me/seabass559</url>
+		   <iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 		<!--
 		<description></description>
 		<description><![CDATA[
@@ -41,16 +52,5 @@ This tweak hides the Liked Songs Playlist from your Spotify Library. I made this
 		<change>Initial release</change>
 		
 	</changelog>
-	<links>
-	<link>
-	<name>Buy me a cup of coffee!</name>
-			<url>https://www.paypal.me/seabass559</url>
-		   <iconclass>fa fa-paypal</iconclass>
-		</link>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	
 </package>
