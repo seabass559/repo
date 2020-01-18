@@ -22,7 +22,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: /./debs/com.seabass.spotifyallowsettingss.deb
 Size: 3112
-MD5sum: 88f76a7d6c1bb578d8fd58934ffebea2
+MD5sum: ebefaa485efc7c7c49ea76e952a2609e
 Description: This package shows the settings that are usually disabled when using multiple devices.
 Name: SpotifyAllowSettings
 Author: Seabass559 <sebx559@gmail.com>
