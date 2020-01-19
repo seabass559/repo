@@ -13,11 +13,6 @@
 			<url>https://www.paypal.me/seabass559</url>
 		   <iconclass>fa fa-paypal</iconclass>
 		</link>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
 	</links>
 	<dependencies>
 		<package>mobilesubstrate</package>
@@ -26,7 +21,8 @@
 	<descriptionlist>
 		<description>
 		
-Donations greatly appreciated at:<url>https://www.paypal.me/seabass559</url>
+Donations greatly appreciated at:<url> https://www.paypal.me/seabass559</url>
+
 This tweak hides the Liked Songs Playlist from your Spotify Library. I made this because I personally don't like it and hate that its always at the top.
 
 </description>
