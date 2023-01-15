@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Speech Recognition Example</title>
+    <script>
+      var recognition = new webkitSpeechRecognition();
+      recognition.onresult = function(event) {
+        var number = event.results[0][0].transcript;
+        if(!isNaN(number)){  // check if number is a number
+          document.getElementById("bigNumber").innerHTML = number;
+        }
+      }
+      
+      function startRecognition() {
+        recognition.start();
+      }
+    </script>
+  </head>
+  <body>
+    <h1 id="bigNumber">0</h1>
+    <button onclick="startRecognition()">Start Recognition</button>
+  </body>
+</html>
